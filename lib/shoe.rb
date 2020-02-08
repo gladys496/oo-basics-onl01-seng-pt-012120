@@ -7,7 +7,7 @@ class Shoe
   end
  
   def repair_shoe
-    puts "The shoe has been repair!"
+    puts "Your shoe !"
   end
  
 end

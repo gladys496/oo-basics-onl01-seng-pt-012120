@@ -7,7 +7,7 @@ class Shoe
   end
  
   def repair_shoe
-    puts "Your shoe !"
+    puts "Your shoe is as good as new!"
   end
  
 end
